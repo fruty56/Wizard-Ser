@@ -56,7 +56,7 @@ conn.version = [3, 3234, 9]
 conn.connectOptions.maxQueryResponseTime = 60_000
 if (opts['test']) {
   conn.user = {
-    jid: '2219191@s.whatsapp.net',
+    jid: '15064985551@s.whatsapp.net',
     name: 'test',
     phone: {}
   }
